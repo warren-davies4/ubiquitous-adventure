@@ -3,3 +3,6 @@ site_name: My Docs
 nav:
   - index.md
   - ubiquitous-adventure.md
+
+theme:
+  name: material
